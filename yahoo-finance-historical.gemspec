@@ -1,9 +1,9 @@
 $LOAD_PATH << '.'
-require 'lib/yahoo_finance'
+require 'lib/yahoo_finance_historical'
 
 spec = Gem::Specification.new do |s|
   s.name = "yahoo-finance-historical"
-  s.version = YahooFinance::VERSION
+  s.version = YahooFinanceHistorical::VERSION
   s.author = "Herval Freire"
   s.email = "herval@hervalicio.us"
   s.homepage = "http://hervalicio.us/blog"
