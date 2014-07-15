@@ -13,7 +13,7 @@ else
   end
 end
 
- class YahooFinance
+ class YahooFinanceHistorical
   
    VERSION = '0.1.0'
 

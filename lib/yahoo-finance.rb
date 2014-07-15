@@ -1,1 +1,0 @@
-require 'yahoo_finance'
